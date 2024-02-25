@@ -1,50 +1,30 @@
-# Game Name - (explaination)
+# {Game Name}
 
 
-(Header Image Here)
+{Header Image Here}
 
-(Description)
-
-
-
-## Features
-
-- **Header** (Description)
+{Description Here}
 
 
 ## Team Info
 
-(Description)
-- (Full Name)
-  - (Role)
+- {Full Name}
+  - {Role}
 
-- (Full Name)
-  - (Role)
+- {Full Name}
+  - {Role}
+
 
 ## How to play
-(explaination of game)
+{explaination of game}
 
 To play:
 1. Download the latest version of the game from the (releases URL).
-2. Unzip the downloaded folder and run `(gamename).exe`.
-3. (gameplay explaination)
-
-(Controls Here in table)
-
-## Licence
-
-(Insert Licence Here)
+2. Unzip the downloaded folder and run `{gamename}.exe`.
 
 
 ## Credits
 
-- (Credit Here): (Link)
+- {Credit Here}: {Link}
 
 
-### Music
-
-- (Music Credit Here)
-
-### Sound Effects
-
-- (Credits)
