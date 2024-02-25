@@ -1,7 +1,6 @@
 # {Game Name}
 
-
-{Header Image Here}
+![header](https://github.com/LiamMcKenzie/RepoTemplate/assets/90590068/f50d8e68-a891-4d2f-ba18-743421cb5930)
 
 {Description Here}
 
