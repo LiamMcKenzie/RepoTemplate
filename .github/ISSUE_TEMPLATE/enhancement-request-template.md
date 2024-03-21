@@ -7,14 +7,18 @@ assignees: ''
 
 ---
 
-**Description:**
-Describe the enhancement you'd like to suggest for an existing feature.
+### Description:
+_Describe the enhancement you'd like to suggest for an existing feature._
+- {Enter text here}
 
-**Current Behavior:**
-Explain how the feature works currently.
+### Current Behavior:
+_Explain how the feature works currently._
+- {Enter text here}
 
-**Proposed Enhancement:**
-Describe the improvement or change you propose.
+### Proposed Enhancement:
+_Describe the improvement or change you propose._
+- {Enter text here}
 
-**Benefits:**
-Explain the benefits of this enhancement.
+### Benefits:
+_Explain the benefits of this enhancement._
+- {Enter text here}
