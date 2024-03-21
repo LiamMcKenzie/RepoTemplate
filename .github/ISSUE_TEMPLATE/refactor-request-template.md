@@ -7,14 +7,18 @@ assignees: ''
 
 ---
 
-**Description:**
-Describe the code segment or functionality requiring refactoring.
+### Description:
+_Describe the code segment or functionality requiring refactoring._
+- {Enter text here}
 
-**Current Implementation:**
-Explain the current state that needs improvement.
+### Current Implementation:
+_Explain the current state that needs improvement._
+- {Enter text here}
 
-**Proposed Changes:**
-Outline the changes you suggest for improvement.
+### Proposed Changes:
+_Outline the changes you suggest for improvement._
+- {Enter text here}
 
-**Impact:**
-Discuss the expected impact of the refactor.
+### Impact:
+_Discuss the expected impact of the refactor._
+- {Enter text here}
