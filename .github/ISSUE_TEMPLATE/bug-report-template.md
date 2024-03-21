@@ -7,22 +7,27 @@ assignees: ''
 
 ---
 
-**Description:**
-Describe the issue you encountered concisely.
+### Description:
+_Describe the issue you encountered concisely._
+- {enter text here}
 
-**Steps to Reproduce:**
+### Steps to Reproduce:
 1. Step 1
 2. Step 2
 3. ...
 
-**Expected Behavior:**
-What should have happened?
+### Expected Behavior:
+_What should have happened?_
+- {enter text here}
 
-**Actual Behavior:**
-What actually happened?
+### Actual Behavior:
+_What actually happened?_
+- {enter text here}
 
-**Screenshots/GIFs:**
-If applicable, add visuals to help explain the issue.
+### Screenshots/GIFs:
+_If applicable, add visuals to help explain the issue._
+{Add image here}
 
-**Additional Information:**
+### Additional Information:
 Any additional context or information about the bug.
+- {enter text here}
